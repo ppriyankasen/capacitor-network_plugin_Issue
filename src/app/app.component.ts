@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Network } from '@capacitor/network';
 
 @Component({
   selector: 'app-root',
