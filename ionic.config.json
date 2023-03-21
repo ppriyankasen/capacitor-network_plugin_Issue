@@ -1,0 +1,7 @@
+{
+  "name": "capNet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
